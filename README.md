@@ -20,7 +20,7 @@ Estudante de Engenharia de Software no Instituto Infnet <img src="https://faculd
 
 ### 📊 Estatísticas
 <p>
-<img align="left" alt="GitHub stats" height="200" style="padding-right: 10px;" src="https://github-stats-extended.vercel.app/api?username=martinsjoaosousa&show_icons=true&include_all_commits=true&theme=tokyonight&locale=pt-br" />
+<img align="left" alt="GitHub stats" height="200" style="padding-right: 10px;" src="https://github-stats-extended.vercel.app/api?username=martinsjoaosousa&show_icons=true&include_all_commits=true&theme=dark_github&locale=pt-br" />
 
-<img align="left" alt="GitHub stats" height="200" src="https://github-stats-extended.vercel.app/api/top-langs?username=martinsjoaosousa&langs_count=4&theme=tokyonight&locale=pt-br" />
+<img align="left" alt="GitHub stats" height="200" src="https://github-stats-extended.vercel.app/api/top-langs?username=martinsjoaosousa&layout=compact&langs_count=4&theme=dark_github&locale=pt-br" />
 </p>
